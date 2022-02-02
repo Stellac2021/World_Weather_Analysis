@@ -1,3 +1,9 @@
+# Adding config.py file.
+openweather_config.py
+
+#Adding additional files
+API_practice.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
